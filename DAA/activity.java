@@ -2,7 +2,7 @@ import java.util.*;
  class activity {
     public static void main(String[] arg) {
         Scanner s = new Scanner(System.in);
-        System.out.println("------BY VATSAL SHAH 21BKT0131-------\n");
+        System.out.println("------BY VATSAL SHAH -------\n");
         System.out.println("Enter the no. of activites");
         int n = s.nextInt();
         
